@@ -7,6 +7,19 @@
   <h4>A Cyber Secuirty Enthusiast </h4>
 </div>
 
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.instagram.com/_aaqib.shk_/">
+  <img align="left" alt="Aaqib's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://in.linkedin.com/in/aaqib-shaikh-a2015421b/">
+  <img align="left" alt="Aaqib's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=Aaqib29.Aaqib29)
+
+
+
 ### $ whoami
 ```shell
 Aaqib29@Aaqib29:~$ whoami
